@@ -5,5 +5,6 @@ public with sharing class Hello {
 
     public void sendMessage() {
         System.debug('hello world');
+        
     }
 }
